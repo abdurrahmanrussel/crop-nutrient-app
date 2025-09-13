@@ -1,2 +1,16 @@
-# crop-nutrient-app
-This Streamlit app allows growers and agronomists to compare crop nutrient values with baseline standards. Users can select grower, crop, and nutrient, view interactive charts showing optimum ranges, and download multi-page PDFs of nutrient data for reporting. Data files are included, so no manual uploads are required.
+# Crop Nutrient Visualization App
+
+**Interactive Streamlit app to visualize crop nutrient levels against baseline standards, with PDF export functionality.**
+
+---
+
+## **Overview**
+
+This Streamlit app allows growers, agronomists, and researchers to compare crop nutrient values with baseline (OL Complete) data. Users can:
+
+- Select a **Grower** and **Crop**
+- View nutrient levels for different growth stages
+- Compare values against the **optimum range** (baseline)
+- Export all nutrient charts into a **multi-page PDF**
+
+The app includes the necessary data files, so no manual upload is required.
