@@ -1,0 +1,1241 @@
+,Crop,Crop Stage,Nutrient,Level,Value
+1,Corn,V2,Total Sugars,High,2
+2,Corn,V3,Total Sugars,High,2
+3,Corn,V4,Total Sugars,High,0.74
+4,Corn,V5,Total Sugars,High,0.74
+5,Corn,V6,Total Sugars,High,0.74
+6,Corn,V7,Total Sugars,High,0.78
+7,Corn,V8,Total Sugars,High,0.78
+8,Corn,V9,Total Sugars,High,0.78
+9,Corn,V10,Total Sugars,High,0.6
+10,Corn,V11,Total Sugars,High,0.6
+11,Corn,V12,Total Sugars,High,0.6
+12,Corn,V13,Total Sugars,High,0.6
+13,Corn,V14,Total Sugars,High,0.6
+14,Corn,V15,Total Sugars,High,0.6
+15,Corn,VT,Total Sugars,High,0.64
+16,Corn,R1,Total Sugars,High,0.64
+17,Corn,R2,Total Sugars,High,0.76
+18,Corn,R3,Total Sugars,High,0.76
+19,Corn,R4,Total Sugars,High,0.76
+1,Soybeans,V1,Total Sugars,High,1.1
+2,Soybeans,V2,Total Sugars,High,1.1
+3,Soybeans,V3,Total Sugars,High,1.1
+4,Soybeans,V4,Total Sugars,High,1.1
+5,Soybeans,V5,Total Sugars,High,1.1
+6,Soybeans,V6,Total Sugars,High,1.1
+7,Soybeans,V7,Total Sugars,High,1.1
+8,Soybeans,V8,Total Sugars,High,1.1
+9,Soybeans,V9,Total Sugars,High,1.1
+10,Soybeans,R1,Total Sugars,High,3
+11,Soybeans,R2,Total Sugars,High,3
+12,Soybeans,R3,Total Sugars,High,3
+1,Corn,V2,Total Sugars,Low,1.5
+2,Corn,V3,Total Sugars,Low,1.5
+3,Corn,V4,Total Sugars,Low,0.28
+4,Corn,V5,Total Sugars,Low,0.28
+5,Corn,V6,Total Sugars,Low,0.28
+6,Corn,V7,Total Sugars,Low,0.33
+7,Corn,V8,Total Sugars,Low,0.33
+8,Corn,V9,Total Sugars,Low,0.33
+9,Corn,V10,Total Sugars,Low,0.24
+10,Corn,V11,Total Sugars,Low,0.24
+11,Corn,V12,Total Sugars,Low,0.24
+12,Corn,V13,Total Sugars,Low,0.24
+13,Corn,V14,Total Sugars,Low,0.24
+14,Corn,V15,Total Sugars,Low,0.24
+15,Corn,VT,Total Sugars,Low,0.25
+16,Corn,R1,Total Sugars,Low,0.25
+17,Corn,R2,Total Sugars,Low,0.36
+18,Corn,R3,Total Sugars,Low,0.36
+19,Corn,R4,Total Sugars,Low,0.36
+1,Soybeans,V1,Total Sugars,Low,0.5
+2,Soybeans,V2,Total Sugars,Low,0.5
+3,Soybeans,V3,Total Sugars,Low,0.5
+4,Soybeans,V4,Total Sugars,Low,0.5
+5,Soybeans,V5,Total Sugars,Low,0.5
+6,Soybeans,V6,Total Sugars,Low,0.5
+7,Soybeans,V7,Total Sugars,Low,0.5
+8,Soybeans,V8,Total Sugars,Low,0.5
+9,Soybeans,V9,Total Sugars,Low,0.5
+10,Soybeans,R1,Total Sugars,Low,1
+11,Soybeans,R2,Total Sugars,Low,1
+12,Soybeans,R3,Total Sugars,Low,1
+1,Corn,V2,Brix,High,16
+2,Corn,V3,Brix,High,16
+3,Corn,V4,Brix,High,16
+4,Corn,V5,Brix,High,16
+5,Corn,V6,Brix,High,16
+6,Corn,V7,Brix,High,16
+7,Corn,V8,Brix,High,16
+8,Corn,V9,Brix,High,16
+9,Corn,V10,Brix,High,16
+10,Corn,V11,Brix,High,16
+11,Corn,V12,Brix,High,16
+12,Corn,V13,Brix,High,16
+13,Corn,V14,Brix,High,16
+14,Corn,V15,Brix,High,16
+15,Corn,VT,Brix,High,16
+16,Corn,R1,Brix,High,16
+17,Corn,R2,Brix,High,16
+18,Corn,R3,Brix,High,16
+19,Corn,R4,Brix,High,16
+1,Soybeans,V1,Brix,High,16
+2,Soybeans,V2,Brix,High,16
+3,Soybeans,V3,Brix,High,16
+4,Soybeans,V4,Brix,High,16
+5,Soybeans,V5,Brix,High,16
+6,Soybeans,V6,Brix,High,16
+7,Soybeans,V7,Brix,High,16
+8,Soybeans,V8,Brix,High,16
+9,Soybeans,V9,Brix,High,16
+10,Soybeans,R1,Brix,High,16
+11,Soybeans,R2,Brix,High,16
+12,Soybeans,R3,Brix,High,16
+1,Corn,V2,Brix,Low,6.5
+2,Corn,V3,Brix,Low,6.5
+3,Corn,V4,Brix,Low,6
+4,Corn,V5,Brix,Low,6
+5,Corn,V6,Brix,Low,6
+6,Corn,V7,Brix,Low,6
+7,Corn,V8,Brix,Low,6
+8,Corn,V9,Brix,Low,6
+9,Corn,V10,Brix,Low,6
+10,Corn,V11,Brix,Low,6
+11,Corn,V12,Brix,Low,6
+12,Corn,V13,Brix,Low,6
+13,Corn,V14,Brix,Low,6
+14,Corn,V15,Brix,Low,6
+15,Corn,VT,Brix,Low,6
+16,Corn,R1,Brix,Low,6
+17,Corn,R2,Brix,Low,6
+18,Corn,R3,Brix,Low,6
+19,Corn,R4,Brix,Low,6
+1,Soybeans,V1,Brix,Low,8
+2,Soybeans,V2,Brix,Low,8
+3,Soybeans,V3,Brix,Low,8
+4,Soybeans,V4,Brix,Low,8
+5,Soybeans,V5,Brix,Low,8
+6,Soybeans,V6,Brix,Low,8
+7,Soybeans,V7,Brix,Low,8
+8,Soybeans,V8,Brix,Low,8
+9,Soybeans,V9,Brix,Low,8
+10,Soybeans,R1,Brix,Low,8
+11,Soybeans,R2,Brix,Low,8
+12,Soybeans,R3,Brix,Low,8
+1,Corn,V2,pH,High,6.5
+2,Corn,V3,pH,High,6.5
+3,Corn,V4,pH,High,6.41
+4,Corn,V5,pH,High,6.41
+5,Corn,V6,pH,High,6.41
+6,Corn,V7,pH,High,6.41
+7,Corn,V8,pH,High,6.41
+8,Corn,V9,pH,High,6.41
+9,Corn,V10,pH,High,6.26
+10,Corn,V11,pH,High,6.26
+11,Corn,V12,pH,High,6.26
+12,Corn,V13,pH,High,6.26
+13,Corn,V14,pH,High,6.26
+14,Corn,V15,pH,High,6.26
+15,Corn,VT,pH,High,6.14
+16,Corn,R1,pH,High,6.14
+17,Corn,R2,pH,High,6.14
+18,Corn,R3,pH,High,6.14
+19,Corn,R4,pH,High,6.14
+1,Soybeans,V1,pH,High,8
+2,Soybeans,V2,pH,High,8
+3,Soybeans,V3,pH,High,8
+4,Soybeans,V4,pH,High,8
+5,Soybeans,V5,pH,High,8
+6,Soybeans,V6,pH,High,8
+7,Soybeans,V7,pH,High,8
+8,Soybeans,V8,pH,High,8
+9,Soybeans,V9,pH,High,8
+10,Soybeans,R1,pH,High,6.5
+11,Soybeans,R2,pH,High,6.5
+12,Soybeans,R3,pH,High,6.5
+1,Corn,V2,pH,Low,5.8
+2,Corn,V3,pH,Low,5.8
+3,Corn,V4,pH,Low,5.83
+4,Corn,V5,pH,Low,5.83
+5,Corn,V6,pH,Low,5.83
+6,Corn,V7,pH,Low,5.85
+7,Corn,V8,pH,Low,5.85
+8,Corn,V9,pH,Low,5.85
+9,Corn,V10,pH,Low,5.57
+10,Corn,V11,pH,Low,5.57
+11,Corn,V12,pH,Low,5.57
+12,Corn,V13,pH,Low,5.57
+13,Corn,V14,pH,Low,5.57
+14,Corn,V15,pH,Low,5.57
+15,Corn,VT,pH,Low,5.46
+16,Corn,R1,pH,Low,5.46
+17,Corn,R2,pH,Low,5.62
+18,Corn,R3,pH,Low,5.62
+19,Corn,R4,pH,Low,5.62
+1,Soybeans,V1,pH,Low,4
+2,Soybeans,V2,pH,Low,4
+3,Soybeans,V3,pH,Low,4
+4,Soybeans,V4,pH,Low,4
+5,Soybeans,V5,pH,Low,4
+6,Soybeans,V6,pH,Low,4
+7,Soybeans,V7,pH,Low,4
+8,Soybeans,V8,pH,Low,4
+9,Soybeans,V9,pH,Low,4
+10,Soybeans,R1,pH,Low,5.5
+11,Soybeans,R2,pH,Low,5.5
+12,Soybeans,R3,pH,Low,5.5
+1,Corn,V2,EC,High,18
+2,Corn,V3,EC,High,18
+3,Corn,V4,EC,High,18
+4,Corn,V5,EC,High,18
+5,Corn,V6,EC,High,18
+6,Corn,V7,EC,High,18
+7,Corn,V8,EC,High,18
+8,Corn,V9,EC,High,18
+9,Corn,V10,EC,High,18
+10,Corn,V11,EC,High,18
+11,Corn,V12,EC,High,18
+12,Corn,V13,EC,High,18
+13,Corn,V14,EC,High,18
+14,Corn,V15,EC,High,18
+15,Corn,VT,EC,High,18
+16,Corn,R1,EC,High,18
+17,Corn,R2,EC,High,18
+18,Corn,R3,EC,High,18
+19,Corn,R4,EC,High,18
+1,Soybeans,V1,EC,High,19
+2,Soybeans,V2,EC,High,19
+3,Soybeans,V3,EC,High,19
+4,Soybeans,V4,EC,High,19
+5,Soybeans,V5,EC,High,19
+6,Soybeans,V6,EC,High,19
+7,Soybeans,V7,EC,High,19
+8,Soybeans,V8,EC,High,19
+9,Soybeans,V9,EC,High,19
+10,Soybeans,R1,EC,High,18
+11,Soybeans,R2,EC,High,18
+12,Soybeans,R3,EC,High,18
+1,Corn,V2,EC,Low,15
+2,Corn,V3,EC,Low,15
+3,Corn,V4,EC,Low,6
+4,Corn,V5,EC,Low,6
+5,Corn,V6,EC,Low,6
+6,Corn,V7,EC,Low,5.5
+7,Corn,V8,EC,Low,5.5
+8,Corn,V9,EC,Low,5.5
+9,Corn,V10,EC,Low,4.8
+10,Corn,V11,EC,Low,4.8
+11,Corn,V12,EC,Low,4.8
+12,Corn,V13,EC,Low,4.8
+13,Corn,V14,EC,Low,4.8
+14,Corn,V15,EC,Low,4.8
+15,Corn,VT,EC,Low,5.5
+16,Corn,R1,EC,Low,5.5
+17,Corn,R2,EC,Low,6
+18,Corn,R3,EC,Low,6
+19,Corn,R4,EC,Low,6
+1,Soybeans,V1,EC,Low,9.5
+2,Soybeans,V2,EC,Low,9.5
+3,Soybeans,V3,EC,Low,9.5
+4,Soybeans,V4,EC,Low,9.5
+5,Soybeans,V5,EC,Low,9.5
+6,Soybeans,V6,EC,Low,9.5
+7,Soybeans,V7,EC,Low,9.5
+8,Soybeans,V8,EC,Low,9.5
+9,Soybeans,V9,EC,Low,9.5
+10,Soybeans,R1,EC,Low,9
+11,Soybeans,R2,EC,Low,9
+12,Soybeans,R3,EC,Low,9
+1,Corn,V2,Chloride,High,2500
+2,Corn,V3,Chloride,High,2500
+3,Corn,V4,Chloride,High,1190
+4,Corn,V5,Chloride,High,1190
+5,Corn,V6,Chloride,High,1190
+6,Corn,V7,Chloride,High,1350
+7,Corn,V8,Chloride,High,1350
+8,Corn,V9,Chloride,High,1350
+9,Corn,V10,Chloride,High,1210
+10,Corn,V11,Chloride,High,1210
+11,Corn,V12,Chloride,High,1210
+12,Corn,V13,Chloride,High,1210
+13,Corn,V14,Chloride,High,1210
+14,Corn,V15,Chloride,High,1210
+15,Corn,VT,Chloride,High,1150
+16,Corn,R1,Chloride,High,1150
+17,Corn,R2,Chloride,High,1415
+18,Corn,R3,Chloride,High,1415
+19,Corn,R4,Chloride,High,1415
+1,Soybeans,V1,Chloride,High,200
+2,Soybeans,V2,Chloride,High,200
+3,Soybeans,V3,Chloride,High,200
+4,Soybeans,V4,Chloride,High,200
+5,Soybeans,V5,Chloride,High,200
+6,Soybeans,V6,Chloride,High,200
+7,Soybeans,V7,Chloride,High,200
+8,Soybeans,V8,Chloride,High,200
+9,Soybeans,V9,Chloride,High,200
+10,Soybeans,R1,Chloride,High,500
+11,Soybeans,R2,Chloride,High,500
+12,Soybeans,R3,Chloride,High,500
+1,Corn,V2,Chloride,Low,1000
+2,Corn,V3,Chloride,Low,1000
+3,Corn,V4,Chloride,Low,476
+4,Corn,V5,Chloride,Low,476
+5,Corn,V6,Chloride,Low,476
+6,Corn,V7,Chloride,Low,505
+7,Corn,V8,Chloride,Low,505
+8,Corn,V9,Chloride,Low,505
+9,Corn,V10,Chloride,Low,418
+10,Corn,V11,Chloride,Low,418
+11,Corn,V12,Chloride,Low,418
+12,Corn,V13,Chloride,Low,418
+13,Corn,V14,Chloride,Low,418
+14,Corn,V15,Chloride,Low,418
+15,Corn,VT,Chloride,Low,486
+16,Corn,R1,Chloride,Low,486
+17,Corn,R2,Chloride,Low,546
+18,Corn,R3,Chloride,Low,546
+19,Corn,R4,Chloride,Low,546
+1,Soybeans,V1,Chloride,Low,100
+2,Soybeans,V2,Chloride,Low,100
+3,Soybeans,V3,Chloride,Low,100
+4,Soybeans,V4,Chloride,Low,100
+5,Soybeans,V5,Chloride,Low,100
+6,Soybeans,V6,Chloride,Low,100
+7,Soybeans,V7,Chloride,Low,100
+8,Soybeans,V8,Chloride,Low,100
+9,Soybeans,V9,Chloride,Low,100
+10,Soybeans,R1,Chloride,Low,250
+11,Soybeans,R2,Chloride,Low,250
+12,Soybeans,R3,Chloride,Low,250
+1,Corn,V2,Sulfur,High,400
+2,Corn,V3,Sulfur,High,400
+3,Corn,V4,Sulfur,High,150
+4,Corn,V5,Sulfur,High,150
+5,Corn,V6,Sulfur,High,150
+6,Corn,V7,Sulfur,High,150
+7,Corn,V8,Sulfur,High,150
+8,Corn,V9,Sulfur,High,150
+9,Corn,V10,Sulfur,High,150
+10,Corn,V11,Sulfur,High,150
+11,Corn,V12,Sulfur,High,150
+12,Corn,V13,Sulfur,High,150
+13,Corn,V14,Sulfur,High,150
+14,Corn,V15,Sulfur,High,150
+15,Corn,VT,Sulfur,High,170
+16,Corn,R1,Sulfur,High,170
+17,Corn,R2,Sulfur,High,200
+18,Corn,R3,Sulfur,High,200
+19,Corn,R4,Sulfur,High,200
+1,Soybeans,V1,Sulfur,High,300
+2,Soybeans,V2,Sulfur,High,300
+3,Soybeans,V3,Sulfur,High,300
+4,Soybeans,V4,Sulfur,High,300
+5,Soybeans,V5,Sulfur,High,300
+6,Soybeans,V6,Sulfur,High,300
+7,Soybeans,V7,Sulfur,High,300
+8,Soybeans,V8,Sulfur,High,300
+9,Soybeans,V9,Sulfur,High,300
+10,Soybeans,R1,Sulfur,High,400
+11,Soybeans,R2,Sulfur,High,400
+12,Soybeans,R3,Sulfur,High,400
+1,Corn,V2,Sulfur,Low,100
+2,Corn,V3,Sulfur,Low,100
+3,Corn,V4,Sulfur,Low,100
+4,Corn,V5,Sulfur,Low,100
+5,Corn,V6,Sulfur,Low,100
+6,Corn,V7,Sulfur,Low,100
+7,Corn,V8,Sulfur,Low,100
+8,Corn,V9,Sulfur,Low,100
+9,Corn,V10,Sulfur,Low,100
+10,Corn,V11,Sulfur,Low,100
+11,Corn,V12,Sulfur,Low,100
+12,Corn,V13,Sulfur,Low,100
+13,Corn,V14,Sulfur,Low,100
+14,Corn,V15,Sulfur,Low,100
+15,Corn,VT,Sulfur,Low,100
+16,Corn,R1,Sulfur,Low,100
+17,Corn,R2,Sulfur,Low,100
+18,Corn,R3,Sulfur,Low,100
+19,Corn,R4,Sulfur,Low,100
+1,Soybeans,V1,Sulfur,Low,150
+2,Soybeans,V2,Sulfur,Low,150
+3,Soybeans,V3,Sulfur,Low,150
+4,Soybeans,V4,Sulfur,Low,150
+5,Soybeans,V5,Sulfur,Low,150
+6,Soybeans,V6,Sulfur,Low,150
+7,Soybeans,V7,Sulfur,Low,150
+8,Soybeans,V8,Sulfur,Low,150
+9,Soybeans,V9,Sulfur,Low,150
+10,Soybeans,R1,Sulfur,Low,175
+11,Soybeans,R2,Sulfur,Low,175
+12,Soybeans,R3,Sulfur,Low,175
+1,Corn,V2,Phosphorus,High,370
+2,Corn,V3,Phosphorus,High,370
+3,Corn,V4,Phosphorus,High,250
+4,Corn,V5,Phosphorus,High,250
+5,Corn,V6,Phosphorus,High,250
+6,Corn,V7,Phosphorus,High,241
+7,Corn,V8,Phosphorus,High,241
+8,Corn,V9,Phosphorus,High,241
+9,Corn,V10,Phosphorus,High,256
+10,Corn,V11,Phosphorus,High,256
+11,Corn,V12,Phosphorus,High,256
+12,Corn,V13,Phosphorus,High,256
+13,Corn,V14,Phosphorus,High,256
+14,Corn,V15,Phosphorus,High,256
+15,Corn,VT,Phosphorus,High,342
+16,Corn,R1,Phosphorus,High,342
+17,Corn,R2,Phosphorus,High,336
+18,Corn,R3,Phosphorus,High,336
+19,Corn,R4,Phosphorus,High,336
+1,Soybeans,V1,Phosphorus,High,350
+2,Soybeans,V2,Phosphorus,High,350
+3,Soybeans,V3,Phosphorus,High,350
+4,Soybeans,V4,Phosphorus,High,350
+5,Soybeans,V5,Phosphorus,High,350
+6,Soybeans,V6,Phosphorus,High,350
+7,Soybeans,V7,Phosphorus,High,350
+8,Soybeans,V8,Phosphorus,High,350
+9,Soybeans,V9,Phosphorus,High,350
+10,Soybeans,R1,Phosphorus,High,450
+11,Soybeans,R2,Phosphorus,High,450
+12,Soybeans,R3,Phosphorus,High,450
+1,Corn,V2,Phosphorus,Low,170
+2,Corn,V3,Phosphorus,Low,170
+3,Corn,V4,Phosphorus,Low,123
+4,Corn,V5,Phosphorus,Low,123
+5,Corn,V6,Phosphorus,Low,123
+6,Corn,V7,Phosphorus,Low,129
+7,Corn,V8,Phosphorus,Low,129
+8,Corn,V9,Phosphorus,Low,129
+9,Corn,V10,Phosphorus,Low,150
+10,Corn,V11,Phosphorus,Low,150
+11,Corn,V12,Phosphorus,Low,150
+12,Corn,V13,Phosphorus,Low,150
+13,Corn,V14,Phosphorus,Low,150
+14,Corn,V15,Phosphorus,Low,150
+15,Corn,VT,Phosphorus,Low,196
+16,Corn,R1,Phosphorus,Low,196
+17,Corn,R2,Phosphorus,Low,189
+18,Corn,R3,Phosphorus,Low,189
+19,Corn,R4,Phosphorus,Low,189
+1,Soybeans,V1,Phosphorus,Low,175
+2,Soybeans,V2,Phosphorus,Low,175
+3,Soybeans,V3,Phosphorus,Low,175
+4,Soybeans,V4,Phosphorus,Low,175
+5,Soybeans,V5,Phosphorus,Low,175
+6,Soybeans,V6,Phosphorus,Low,175
+7,Soybeans,V7,Phosphorus,Low,175
+8,Soybeans,V8,Phosphorus,Low,175
+9,Soybeans,V9,Phosphorus,Low,175
+10,Soybeans,R1,Phosphorus,Low,200
+11,Soybeans,R2,Phosphorus,Low,200
+12,Soybeans,R3,Phosphorus,Low,200
+1,Corn,V2,Calcium,High,450
+2,Corn,V3,Calcium,High,450
+3,Corn,V4,Calcium,High,576
+4,Corn,V5,Calcium,High,576
+5,Corn,V6,Calcium,High,576
+6,Corn,V7,Calcium,High,538
+7,Corn,V8,Calcium,High,538
+8,Corn,V9,Calcium,High,538
+9,Corn,V10,Calcium,High,440
+10,Corn,V11,Calcium,High,440
+11,Corn,V12,Calcium,High,440
+12,Corn,V13,Calcium,High,440
+13,Corn,V14,Calcium,High,440
+14,Corn,V15,Calcium,High,440
+15,Corn,VT,Calcium,High,590
+16,Corn,R1,Calcium,High,590
+17,Corn,R2,Calcium,High,738
+18,Corn,R3,Calcium,High,738
+19,Corn,R4,Calcium,High,738
+1,Soybeans,V1,Calcium,High,3200
+2,Soybeans,V2,Calcium,High,3200
+3,Soybeans,V3,Calcium,High,3200
+4,Soybeans,V4,Calcium,High,3200
+5,Soybeans,V5,Calcium,High,3200
+6,Soybeans,V6,Calcium,High,3200
+7,Soybeans,V7,Calcium,High,3200
+8,Soybeans,V8,Calcium,High,3200
+9,Soybeans,V9,Calcium,High,3200
+10,Soybeans,R1,Calcium,High,1500
+11,Soybeans,R2,Calcium,High,1500
+12,Soybeans,R3,Calcium,High,1500
+1,Corn,V2,Calcium,Low,220
+2,Corn,V3,Calcium,Low,220
+3,Corn,V4,Calcium,Low,303
+4,Corn,V5,Calcium,Low,303
+5,Corn,V6,Calcium,Low,303
+6,Corn,V7,Calcium,Low,275
+7,Corn,V8,Calcium,Low,275
+8,Corn,V9,Calcium,Low,275
+9,Corn,V10,Calcium,Low,255
+10,Corn,V11,Calcium,Low,255
+11,Corn,V12,Calcium,Low,255
+12,Corn,V13,Calcium,Low,255
+13,Corn,V14,Calcium,Low,255
+14,Corn,V15,Calcium,Low,255
+15,Corn,VT,Calcium,Low,329
+16,Corn,R1,Calcium,Low,329
+17,Corn,R2,Calcium,Low,372
+18,Corn,R3,Calcium,Low,372
+19,Corn,R4,Calcium,Low,372
+1,Soybeans,V1,Calcium,Low,1500
+2,Soybeans,V2,Calcium,Low,1500
+3,Soybeans,V3,Calcium,Low,1500
+4,Soybeans,V4,Calcium,Low,1500
+5,Soybeans,V5,Calcium,Low,1500
+6,Soybeans,V6,Calcium,Low,1500
+7,Soybeans,V7,Calcium,Low,1500
+8,Soybeans,V8,Calcium,Low,1500
+9,Soybeans,V9,Calcium,Low,1500
+10,Soybeans,R1,Calcium,Low,800
+11,Soybeans,R2,Calcium,Low,800
+12,Soybeans,R3,Calcium,Low,800
+1,Corn,V2,Potassium,High,3650
+2,Corn,V3,Potassium,High,3650
+3,Corn,V4,Potassium,High,3300
+4,Corn,V5,Potassium,High,3300
+5,Corn,V6,Potassium,High,3300
+6,Corn,V7,Potassium,High,3390
+7,Corn,V8,Potassium,High,3390
+8,Corn,V9,Potassium,High,3390
+9,Corn,V10,Potassium,High,3160
+10,Corn,V11,Potassium,High,3160
+11,Corn,V12,Potassium,High,3160
+12,Corn,V13,Potassium,High,3160
+13,Corn,V14,Potassium,High,3160
+14,Corn,V15,Potassium,High,3160
+15,Corn,VT,Potassium,High,3050
+16,Corn,R1,Potassium,High,3050
+17,Corn,R2,Potassium,High,2890
+18,Corn,R3,Potassium,High,2890
+19,Corn,R4,Potassium,High,2890
+1,Soybeans,V1,Potassium,High,6300
+2,Soybeans,V2,Potassium,High,6300
+3,Soybeans,V3,Potassium,High,6300
+4,Soybeans,V4,Potassium,High,6300
+5,Soybeans,V5,Potassium,High,6300
+6,Soybeans,V6,Potassium,High,6300
+7,Soybeans,V7,Potassium,High,6300
+8,Soybeans,V8,Potassium,High,6300
+9,Soybeans,V9,Potassium,High,6300
+10,Soybeans,R1,Potassium,High,5000
+11,Soybeans,R2,Potassium,High,5000
+12,Soybeans,R3,Potassium,High,5000
+1,Corn,V2,Potassium,Low,2275
+2,Corn,V3,Potassium,Low,2275
+3,Corn,V4,Potassium,Low,2250
+4,Corn,V5,Potassium,Low,2250
+5,Corn,V6,Potassium,Low,2250
+6,Corn,V7,Potassium,Low,1930
+7,Corn,V8,Potassium,Low,1930
+8,Corn,V9,Potassium,Low,1930
+9,Corn,V10,Potassium,Low,1980
+10,Corn,V11,Potassium,Low,1980
+11,Corn,V12,Potassium,Low,1980
+12,Corn,V13,Potassium,Low,1980
+13,Corn,V14,Potassium,Low,1980
+14,Corn,V15,Potassium,Low,1980
+15,Corn,VT,Potassium,Low,2080
+16,Corn,R1,Potassium,Low,2080
+17,Corn,R2,Potassium,Low,1945
+18,Corn,R3,Potassium,Low,1945
+19,Corn,R4,Potassium,Low,1945
+1,Soybeans,V1,Potassium,Low,3150
+2,Soybeans,V2,Potassium,Low,3150
+3,Soybeans,V3,Potassium,Low,3150
+4,Soybeans,V4,Potassium,Low,3150
+5,Soybeans,V5,Potassium,Low,3150
+6,Soybeans,V6,Potassium,Low,3150
+7,Soybeans,V7,Potassium,Low,3150
+8,Soybeans,V8,Potassium,Low,3150
+9,Soybeans,V9,Potassium,Low,3150
+10,Soybeans,R1,Potassium,Low,2500
+11,Soybeans,R2,Potassium,Low,2500
+12,Soybeans,R3,Potassium,Low,2500
+1,Corn,V2,Magnesium,High,480
+2,Corn,V3,Magnesium,High,480
+3,Corn,V4,Magnesium,High,278
+4,Corn,V5,Magnesium,High,278
+5,Corn,V6,Magnesium,High,278
+6,Corn,V7,Magnesium,High,348
+7,Corn,V8,Magnesium,High,348
+8,Corn,V9,Magnesium,High,348
+9,Corn,V10,Magnesium,High,302
+10,Corn,V11,Magnesium,High,302
+11,Corn,V12,Magnesium,High,302
+12,Corn,V13,Magnesium,High,302
+13,Corn,V14,Magnesium,High,302
+14,Corn,V15,Magnesium,High,302
+15,Corn,VT,Magnesium,High,357
+16,Corn,R1,Magnesium,High,357
+17,Corn,R2,Magnesium,High,430
+18,Corn,R3,Magnesium,High,430
+19,Corn,R4,Magnesium,High,430
+1,Soybeans,V1,Magnesium,High,2000
+2,Soybeans,V2,Magnesium,High,2000
+3,Soybeans,V3,Magnesium,High,2000
+4,Soybeans,V4,Magnesium,High,2000
+5,Soybeans,V5,Magnesium,High,2000
+6,Soybeans,V6,Magnesium,High,2000
+7,Soybeans,V7,Magnesium,High,2000
+8,Soybeans,V8,Magnesium,High,2000
+9,Soybeans,V9,Magnesium,High,2000
+10,Soybeans,R1,Magnesium,High,1200
+11,Soybeans,R2,Magnesium,High,1200
+12,Soybeans,R3,Magnesium,High,1200
+1,Corn,V2,Magnesium,Low,240
+2,Corn,V3,Magnesium,Low,240
+3,Corn,V4,Magnesium,Low,145
+4,Corn,V5,Magnesium,Low,145
+5,Corn,V6,Magnesium,Low,145
+6,Corn,V7,Magnesium,Low,158
+7,Corn,V8,Magnesium,Low,158
+8,Corn,V9,Magnesium,Low,158
+9,Corn,V10,Magnesium,Low,153
+10,Corn,V11,Magnesium,Low,153
+11,Corn,V12,Magnesium,Low,153
+12,Corn,V13,Magnesium,Low,153
+13,Corn,V14,Magnesium,Low,153
+14,Corn,V15,Magnesium,Low,153
+15,Corn,VT,Magnesium,Low,178
+16,Corn,R1,Magnesium,Low,178
+17,Corn,R2,Magnesium,Low,204
+18,Corn,R3,Magnesium,Low,204
+19,Corn,R4,Magnesium,Low,204
+1,Soybeans,V1,Magnesium,Low,1000
+2,Soybeans,V2,Magnesium,Low,1000
+3,Soybeans,V3,Magnesium,Low,1000
+4,Soybeans,V4,Magnesium,Low,1000
+5,Soybeans,V5,Magnesium,Low,1000
+6,Soybeans,V6,Magnesium,Low,1000
+7,Soybeans,V7,Magnesium,Low,1000
+8,Soybeans,V8,Magnesium,Low,1000
+9,Soybeans,V9,Magnesium,Low,1000
+10,Soybeans,R1,Magnesium,Low,750
+11,Soybeans,R2,Magnesium,Low,750
+12,Soybeans,R3,Magnesium,Low,750
+1,Corn,V2,Sodium,High,75
+2,Corn,V3,Sodium,High,75
+3,Corn,V4,Sodium,High,32
+4,Corn,V5,Sodium,High,32
+5,Corn,V6,Sodium,High,32
+6,Corn,V7,Sodium,High,25
+7,Corn,V8,Sodium,High,25
+8,Corn,V9,Sodium,High,25
+9,Corn,V10,Sodium,High,26
+10,Corn,V11,Sodium,High,26
+11,Corn,V12,Sodium,High,26
+12,Corn,V13,Sodium,High,26
+13,Corn,V14,Sodium,High,26
+14,Corn,V15,Sodium,High,26
+15,Corn,VT,Sodium,High,30
+16,Corn,R1,Sodium,High,30
+17,Corn,R2,Sodium,High,33
+18,Corn,R3,Sodium,High,33
+19,Corn,R4,Sodium,High,33
+1,Soybeans,V1,Sodium,High,16
+2,Soybeans,V2,Sodium,High,16
+3,Soybeans,V3,Sodium,High,16
+4,Soybeans,V4,Sodium,High,16
+5,Soybeans,V5,Sodium,High,16
+6,Soybeans,V6,Sodium,High,16
+7,Soybeans,V7,Sodium,High,16
+8,Soybeans,V8,Sodium,High,16
+9,Soybeans,V9,Sodium,High,16
+10,Soybeans,R1,Sodium,High,75
+11,Soybeans,R2,Sodium,High,75
+12,Soybeans,R3,Sodium,High,75
+1,Corn,V2,Sodium,Low,10
+2,Corn,V3,Sodium,Low,10
+3,Corn,V4,Sodium,Low,10
+4,Corn,V5,Sodium,Low,10
+5,Corn,V6,Sodium,Low,10
+6,Corn,V7,Sodium,Low,9.5
+7,Corn,V8,Sodium,Low,9.5
+8,Corn,V9,Sodium,Low,9.5
+9,Corn,V10,Sodium,Low,10
+10,Corn,V11,Sodium,Low,10
+11,Corn,V12,Sodium,Low,10
+12,Corn,V13,Sodium,Low,10
+13,Corn,V14,Sodium,Low,10
+14,Corn,V15,Sodium,Low,10
+15,Corn,VT,Sodium,Low,11
+16,Corn,R1,Sodium,Low,11
+17,Corn,R2,Sodium,Low,9
+18,Corn,R3,Sodium,Low,9
+19,Corn,R4,Sodium,Low,9
+1,Soybeans,V1,Sodium,Low,8
+2,Soybeans,V2,Sodium,Low,8
+3,Soybeans,V3,Sodium,Low,8
+4,Soybeans,V4,Sodium,Low,8
+5,Soybeans,V5,Sodium,Low,8
+6,Soybeans,V6,Sodium,Low,8
+7,Soybeans,V7,Sodium,Low,8
+8,Soybeans,V8,Sodium,Low,8
+9,Soybeans,V9,Sodium,Low,8
+10,Soybeans,R1,Sodium,Low,35
+11,Soybeans,R2,Sodium,Low,35
+12,Soybeans,R3,Sodium,Low,35
+1,Corn,V2,Boron,High,9
+2,Corn,V3,Boron,High,9
+3,Corn,V4,Boron,High,9
+4,Corn,V5,Boron,High,9
+5,Corn,V6,Boron,High,9
+6,Corn,V7,Boron,High,9
+7,Corn,V8,Boron,High,9
+8,Corn,V9,Boron,High,9
+9,Corn,V10,Boron,High,9
+10,Corn,V11,Boron,High,9
+11,Corn,V12,Boron,High,9
+12,Corn,V13,Boron,High,9
+13,Corn,V14,Boron,High,9
+14,Corn,V15,Boron,High,9
+15,Corn,VT,Boron,High,9
+16,Corn,R1,Boron,High,9
+17,Corn,R2,Boron,High,9
+18,Corn,R3,Boron,High,9
+19,Corn,R4,Boron,High,9
+1,Soybeans,V1,Boron,High,8.5
+2,Soybeans,V2,Boron,High,8.5
+3,Soybeans,V3,Boron,High,8.5
+4,Soybeans,V4,Boron,High,8.5
+5,Soybeans,V5,Boron,High,8.5
+6,Soybeans,V6,Boron,High,8.5
+7,Soybeans,V7,Boron,High,8.5
+8,Soybeans,V8,Boron,High,8.5
+9,Soybeans,V9,Boron,High,8.5
+10,Soybeans,R1,Boron,High,8
+11,Soybeans,R2,Boron,High,8
+12,Soybeans,R3,Boron,High,8
+1,Corn,V2,Boron,Low,2.5
+2,Corn,V3,Boron,Low,2.5
+3,Corn,V4,Boron,Low,2.5
+4,Corn,V5,Boron,Low,2.5
+5,Corn,V6,Boron,Low,2.5
+6,Corn,V7,Boron,Low,2.5
+7,Corn,V8,Boron,Low,2.5
+8,Corn,V9,Boron,Low,2.5
+9,Corn,V10,Boron,Low,2.5
+10,Corn,V11,Boron,Low,2.5
+11,Corn,V12,Boron,Low,2.5
+12,Corn,V13,Boron,Low,2.5
+13,Corn,V14,Boron,Low,2.5
+14,Corn,V15,Boron,Low,2.5
+15,Corn,VT,Boron,Low,3
+16,Corn,R1,Boron,Low,3
+17,Corn,R2,Boron,Low,3
+18,Corn,R3,Boron,Low,3
+19,Corn,R4,Boron,Low,3
+1,Soybeans,V1,Boron,Low,4.25
+2,Soybeans,V2,Boron,Low,4.25
+3,Soybeans,V3,Boron,Low,4.25
+4,Soybeans,V4,Boron,Low,4.25
+5,Soybeans,V5,Boron,Low,4.25
+6,Soybeans,V6,Boron,Low,4.25
+7,Soybeans,V7,Boron,Low,4.25
+8,Soybeans,V8,Boron,Low,4.25
+9,Soybeans,V9,Boron,Low,4.25
+10,Soybeans,R1,Boron,Low,4
+11,Soybeans,R2,Boron,Low,4
+12,Soybeans,R3,Boron,Low,4
+1,Corn,V2,Copper,High,10
+2,Corn,V3,Copper,High,10
+3,Corn,V4,Copper,High,10
+4,Corn,V5,Copper,High,10
+5,Corn,V6,Copper,High,10
+6,Corn,V7,Copper,High,10
+7,Corn,V8,Copper,High,10
+8,Corn,V9,Copper,High,10
+9,Corn,V10,Copper,High,10
+10,Corn,V11,Copper,High,10
+11,Corn,V12,Copper,High,10
+12,Corn,V13,Copper,High,10
+13,Corn,V14,Copper,High,10
+14,Corn,V15,Copper,High,10
+15,Corn,VT,Copper,High,10
+16,Corn,R1,Copper,High,10
+17,Corn,R2,Copper,High,10
+18,Corn,R3,Copper,High,10
+19,Corn,R4,Copper,High,10
+1,Soybeans,V1,Copper,High,1.5
+2,Soybeans,V2,Copper,High,1.5
+3,Soybeans,V3,Copper,High,1.5
+4,Soybeans,V4,Copper,High,1.5
+5,Soybeans,V5,Copper,High,1.5
+6,Soybeans,V6,Copper,High,1.5
+7,Soybeans,V7,Copper,High,1.5
+8,Soybeans,V8,Copper,High,1.5
+9,Soybeans,V9,Copper,High,1.5
+10,Soybeans,R1,Copper,High,1.5
+11,Soybeans,R2,Copper,High,1.5
+12,Soybeans,R3,Copper,High,1.5
+1,Corn,V2,Copper,Low,2
+2,Corn,V3,Copper,Low,2
+3,Corn,V4,Copper,Low,2
+4,Corn,V5,Copper,Low,2
+5,Corn,V6,Copper,Low,2
+6,Corn,V7,Copper,Low,2
+7,Corn,V8,Copper,Low,2
+8,Corn,V9,Copper,Low,2
+9,Corn,V10,Copper,Low,2
+10,Corn,V11,Copper,Low,2
+11,Corn,V12,Copper,Low,2
+12,Corn,V13,Copper,Low,2
+13,Corn,V14,Copper,Low,2
+14,Corn,V15,Copper,Low,2
+15,Corn,VT,Copper,Low,2
+16,Corn,R1,Copper,Low,2
+17,Corn,R2,Copper,Low,2
+18,Corn,R3,Copper,Low,2
+19,Corn,R4,Copper,Low,2
+1,Soybeans,V1,Copper,Low,0.75
+2,Soybeans,V2,Copper,Low,0.75
+3,Soybeans,V3,Copper,Low,0.75
+4,Soybeans,V4,Copper,Low,0.75
+5,Soybeans,V5,Copper,Low,0.75
+6,Soybeans,V6,Copper,Low,0.75
+7,Soybeans,V7,Copper,Low,0.75
+8,Soybeans,V8,Copper,Low,0.75
+9,Soybeans,V9,Copper,Low,0.75
+10,Soybeans,R1,Copper,Low,0.75
+11,Soybeans,R2,Copper,Low,0.75
+12,Soybeans,R3,Copper,Low,0.75
+1,Corn,V2,Iron,High,10
+2,Corn,V3,Iron,High,10
+3,Corn,V4,Iron,High,10
+4,Corn,V5,Iron,High,10
+5,Corn,V6,Iron,High,10
+6,Corn,V7,Iron,High,10
+7,Corn,V8,Iron,High,10
+8,Corn,V9,Iron,High,10
+9,Corn,V10,Iron,High,10
+10,Corn,V11,Iron,High,10
+11,Corn,V12,Iron,High,10
+12,Corn,V13,Iron,High,10
+13,Corn,V14,Iron,High,10
+14,Corn,V15,Iron,High,10
+15,Corn,VT,Iron,High,10
+16,Corn,R1,Iron,High,10
+17,Corn,R2,Iron,High,10
+18,Corn,R3,Iron,High,10
+19,Corn,R4,Iron,High,10
+1,Soybeans,V1,Iron,High,4
+2,Soybeans,V2,Iron,High,4
+3,Soybeans,V3,Iron,High,4
+4,Soybeans,V4,Iron,High,4
+5,Soybeans,V5,Iron,High,4
+6,Soybeans,V6,Iron,High,4
+7,Soybeans,V7,Iron,High,4
+8,Soybeans,V8,Iron,High,4
+9,Soybeans,V9,Iron,High,4
+10,Soybeans,R1,Iron,High,6
+11,Soybeans,R2,Iron,High,6
+12,Soybeans,R3,Iron,High,6
+1,Corn,V2,Iron,Low,3
+2,Corn,V3,Iron,Low,3
+3,Corn,V4,Iron,Low,3
+4,Corn,V5,Iron,Low,3
+5,Corn,V6,Iron,Low,3
+6,Corn,V7,Iron,Low,3
+7,Corn,V8,Iron,Low,3
+8,Corn,V9,Iron,Low,3
+9,Corn,V10,Iron,Low,3
+10,Corn,V11,Iron,Low,3
+11,Corn,V12,Iron,Low,3
+12,Corn,V13,Iron,Low,3
+13,Corn,V14,Iron,Low,3
+14,Corn,V15,Iron,Low,3
+15,Corn,VT,Iron,Low,3
+16,Corn,R1,Iron,Low,3
+17,Corn,R2,Iron,Low,3
+18,Corn,R3,Iron,Low,3
+19,Corn,R4,Iron,Low,3
+1,Soybeans,V1,Iron,Low,2
+2,Soybeans,V2,Iron,Low,2
+3,Soybeans,V3,Iron,Low,2
+4,Soybeans,V4,Iron,Low,2
+5,Soybeans,V5,Iron,Low,2
+6,Soybeans,V6,Iron,Low,2
+7,Soybeans,V7,Iron,Low,2
+8,Soybeans,V8,Iron,Low,2
+9,Soybeans,V9,Iron,Low,2
+10,Soybeans,R1,Iron,Low,3
+11,Soybeans,R2,Iron,Low,3
+12,Soybeans,R3,Iron,Low,3
+1,Corn,V2,Manganese,High,10
+2,Corn,V3,Manganese,High,10
+3,Corn,V4,Manganese,High,10
+4,Corn,V5,Manganese,High,10
+5,Corn,V6,Manganese,High,10
+6,Corn,V7,Manganese,High,10
+7,Corn,V8,Manganese,High,10
+8,Corn,V9,Manganese,High,10
+9,Corn,V10,Manganese,High,10
+10,Corn,V11,Manganese,High,10
+11,Corn,V12,Manganese,High,10
+12,Corn,V13,Manganese,High,10
+13,Corn,V14,Manganese,High,10
+14,Corn,V15,Manganese,High,10
+15,Corn,VT,Manganese,High,10
+16,Corn,R1,Manganese,High,10
+17,Corn,R2,Manganese,High,10
+18,Corn,R3,Manganese,High,10
+19,Corn,R4,Manganese,High,10
+1,Soybeans,V1,Manganese,High,4
+2,Soybeans,V2,Manganese,High,4
+3,Soybeans,V3,Manganese,High,4
+4,Soybeans,V4,Manganese,High,4
+5,Soybeans,V5,Manganese,High,4
+6,Soybeans,V6,Manganese,High,4
+7,Soybeans,V7,Manganese,High,4
+8,Soybeans,V8,Manganese,High,4
+9,Soybeans,V9,Manganese,High,4
+10,Soybeans,R1,Manganese,High,6
+11,Soybeans,R2,Manganese,High,6
+12,Soybeans,R3,Manganese,High,6
+1,Corn,V2,Manganese,Low,1
+2,Corn,V3,Manganese,Low,1
+3,Corn,V4,Manganese,Low,4
+4,Corn,V5,Manganese,Low,4
+5,Corn,V6,Manganese,Low,4
+6,Corn,V7,Manganese,Low,4
+7,Corn,V8,Manganese,Low,4
+8,Corn,V9,Manganese,Low,4
+9,Corn,V10,Manganese,Low,4.3
+10,Corn,V11,Manganese,Low,4.3
+11,Corn,V12,Manganese,Low,4.3
+12,Corn,V13,Manganese,Low,4.3
+13,Corn,V14,Manganese,Low,4.3
+14,Corn,V15,Manganese,Low,4.3
+15,Corn,VT,Manganese,Low,4.5
+16,Corn,R1,Manganese,Low,4.5
+17,Corn,R2,Manganese,Low,5
+18,Corn,R3,Manganese,Low,5
+19,Corn,R4,Manganese,Low,5
+1,Soybeans,V1,Manganese,Low,8
+2,Soybeans,V2,Manganese,Low,8
+3,Soybeans,V3,Manganese,Low,8
+4,Soybeans,V4,Manganese,Low,8
+5,Soybeans,V5,Manganese,Low,8
+6,Soybeans,V6,Manganese,Low,8
+7,Soybeans,V7,Manganese,Low,8
+8,Soybeans,V8,Manganese,Low,8
+9,Soybeans,V9,Manganese,Low,8
+10,Soybeans,R1,Manganese,Low,8
+11,Soybeans,R2,Manganese,Low,8
+12,Soybeans,R3,Manganese,Low,8
+1,Corn,V2,Molybdenum,High,2
+2,Corn,V3,Molybdenum,High,2
+3,Corn,V4,Molybdenum,High,2
+4,Corn,V5,Molybdenum,High,2
+5,Corn,V6,Molybdenum,High,2
+6,Corn,V7,Molybdenum,High,3
+7,Corn,V8,Molybdenum,High,3
+8,Corn,V9,Molybdenum,High,3
+9,Corn,V10,Molybdenum,High,3
+10,Corn,V11,Molybdenum,High,3
+11,Corn,V12,Molybdenum,High,3
+12,Corn,V13,Molybdenum,High,3
+13,Corn,V14,Molybdenum,High,3
+14,Corn,V15,Molybdenum,High,3
+15,Corn,VT,Molybdenum,High,3
+16,Corn,R1,Molybdenum,High,3
+17,Corn,R2,Molybdenum,High,3
+18,Corn,R3,Molybdenum,High,3
+19,Corn,R4,Molybdenum,High,3
+1,Soybeans,V1,Molybdenum,High,2
+2,Soybeans,V2,Molybdenum,High,2
+3,Soybeans,V3,Molybdenum,High,2
+4,Soybeans,V4,Molybdenum,High,2
+5,Soybeans,V5,Molybdenum,High,2
+6,Soybeans,V6,Molybdenum,High,2
+7,Soybeans,V7,Molybdenum,High,2
+8,Soybeans,V8,Molybdenum,High,2
+9,Soybeans,V9,Molybdenum,High,2
+10,Soybeans,R1,Molybdenum,High,2
+11,Soybeans,R2,Molybdenum,High,2
+12,Soybeans,R3,Molybdenum,High,2
+1,Corn,V2,Molybdenum,Low,1
+2,Corn,V3,Molybdenum,Low,1
+3,Corn,V4,Molybdenum,Low,1
+4,Corn,V5,Molybdenum,Low,1
+5,Corn,V6,Molybdenum,Low,1
+6,Corn,V7,Molybdenum,Low,0.5
+7,Corn,V8,Molybdenum,Low,0.5
+8,Corn,V9,Molybdenum,Low,0.5
+9,Corn,V10,Molybdenum,Low,0.5
+10,Corn,V11,Molybdenum,Low,0.5
+11,Corn,V12,Molybdenum,Low,0.5
+12,Corn,V13,Molybdenum,Low,0.5
+13,Corn,V14,Molybdenum,Low,0.5
+14,Corn,V15,Molybdenum,Low,0.5
+15,Corn,VT,Molybdenum,Low,0.5
+16,Corn,R1,Molybdenum,Low,0.5
+17,Corn,R2,Molybdenum,Low,0.5
+18,Corn,R3,Molybdenum,Low,0.5
+19,Corn,R4,Molybdenum,Low,0.5
+1,Soybeans,V1,Molybdenum,Low,1
+2,Soybeans,V2,Molybdenum,Low,1
+3,Soybeans,V3,Molybdenum,Low,1
+4,Soybeans,V4,Molybdenum,Low,1
+5,Soybeans,V5,Molybdenum,Low,1
+6,Soybeans,V6,Molybdenum,Low,1
+7,Soybeans,V7,Molybdenum,Low,1
+8,Soybeans,V8,Molybdenum,Low,1
+9,Soybeans,V9,Molybdenum,Low,1
+10,Soybeans,R1,Molybdenum,Low,1
+11,Soybeans,R2,Molybdenum,Low,1
+12,Soybeans,R3,Molybdenum,Low,1
+1,Corn,V2,Nickel,High,
+2,Corn,V3,Nickel,High,
+3,Corn,V4,Nickel,High,0.52
+4,Corn,V5,Nickel,High,0.52
+5,Corn,V6,Nickel,High,0.52
+6,Corn,V7,Nickel,High,
+7,Corn,V8,Nickel,High,
+8,Corn,V9,Nickel,High,
+9,Corn,V10,Nickel,High,0.66
+10,Corn,V11,Nickel,High,0.66
+11,Corn,V12,Nickel,High,0.66
+12,Corn,V13,Nickel,High,
+13,Corn,V14,Nickel,High,0.66
+14,Corn,V15,Nickel,High,0.66
+15,Corn,VT,Nickel,High,0.48
+16,Corn,R1,Nickel,High,0.48
+17,Corn,R2,Nickel,High,0.33
+18,Corn,R3,Nickel,High,0.33
+19,Corn,R4,Nickel,High,0.33
+1,Soybeans,V1,Nickel,High,
+2,Soybeans,V2,Nickel,High,
+3,Soybeans,V3,Nickel,High,
+4,Soybeans,V4,Nickel,High,
+5,Soybeans,V5,Nickel,High,
+6,Soybeans,V6,Nickel,High,
+7,Soybeans,V7,Nickel,High,
+8,Soybeans,V8,Nickel,High,
+9,Soybeans,V9,Nickel,High,
+10,Soybeans,R1,Nickel,High,
+11,Soybeans,R2,Nickel,High,
+12,Soybeans,R3,Nickel,High,
+1,Corn,V2,Nickel,Low,
+2,Corn,V3,Nickel,Low,
+3,Corn,V4,Nickel,Low,0.13
+4,Corn,V5,Nickel,Low,0.13
+5,Corn,V6,Nickel,Low,0.13
+6,Corn,V7,Nickel,Low,
+7,Corn,V8,Nickel,Low,
+8,Corn,V9,Nickel,Low,
+9,Corn,V10,Nickel,Low,0.23
+10,Corn,V11,Nickel,Low,0.23
+11,Corn,V12,Nickel,Low,0.23
+12,Corn,V13,Nickel,Low,
+13,Corn,V14,Nickel,Low,0.23
+14,Corn,V15,Nickel,Low,0.23
+15,Corn,VT,Nickel,Low,0.15
+16,Corn,R1,Nickel,Low,0.15
+17,Corn,R2,Nickel,Low,0.1
+18,Corn,R3,Nickel,Low,0.1
+19,Corn,R4,Nickel,Low,0.1
+1,Soybeans,V1,Nickel,Low,
+2,Soybeans,V2,Nickel,Low,
+3,Soybeans,V3,Nickel,Low,
+4,Soybeans,V4,Nickel,Low,
+5,Soybeans,V5,Nickel,Low,
+6,Soybeans,V6,Nickel,Low,
+7,Soybeans,V7,Nickel,Low,
+8,Soybeans,V8,Nickel,Low,
+9,Soybeans,V9,Nickel,Low,
+10,Soybeans,R1,Nickel,Low,
+11,Soybeans,R2,Nickel,Low,
+12,Soybeans,R3,Nickel,Low,
+1,Corn,V2,Silica,High,100
+2,Corn,V3,Silica,High,100
+3,Corn,V4,Silica,High,111
+4,Corn,V5,Silica,High,111
+5,Corn,V6,Silica,High,111
+6,Corn,V7,Silica,High,108
+7,Corn,V8,Silica,High,108
+8,Corn,V9,Silica,High,108
+9,Corn,V10,Silica,High,118
+10,Corn,V11,Silica,High,118
+11,Corn,V12,Silica,High,118
+12,Corn,V13,Silica,High,118
+13,Corn,V14,Silica,High,118
+14,Corn,V15,Silica,High,118
+15,Corn,VT,Silica,High,115
+16,Corn,R1,Silica,High,115
+17,Corn,R2,Silica,High,113
+18,Corn,R3,Silica,High,113
+19,Corn,R4,Silica,High,113
+1,Soybeans,V1,Silica,High,70
+2,Soybeans,V2,Silica,High,70
+3,Soybeans,V3,Silica,High,70
+4,Soybeans,V4,Silica,High,70
+5,Soybeans,V5,Silica,High,70
+6,Soybeans,V6,Silica,High,70
+7,Soybeans,V7,Silica,High,70
+8,Soybeans,V8,Silica,High,70
+9,Soybeans,V9,Silica,High,70
+10,Soybeans,R1,Silica,High,100
+11,Soybeans,R2,Silica,High,100
+12,Soybeans,R3,Silica,High,100
+1,Corn,V2,Silica,Low,50
+2,Corn,V3,Silica,Low,50
+3,Corn,V4,Silica,Low,69
+4,Corn,V5,Silica,Low,69
+5,Corn,V6,Silica,Low,69
+6,Corn,V7,Silica,Low,57
+7,Corn,V8,Silica,Low,57
+8,Corn,V9,Silica,Low,57
+9,Corn,V10,Silica,Low,63
+10,Corn,V11,Silica,Low,63
+11,Corn,V12,Silica,Low,63
+12,Corn,V13,Silica,Low,63
+13,Corn,V14,Silica,Low,63
+14,Corn,V15,Silica,Low,63
+15,Corn,VT,Silica,Low,73
+16,Corn,R1,Silica,Low,73
+17,Corn,R2,Silica,Low,72
+18,Corn,R3,Silica,Low,72
+19,Corn,R4,Silica,Low,72
+1,Soybeans,V1,Silica,Low,35
+2,Soybeans,V2,Silica,Low,35
+3,Soybeans,V3,Silica,Low,35
+4,Soybeans,V4,Silica,Low,35
+5,Soybeans,V5,Silica,Low,35
+6,Soybeans,V6,Silica,Low,35
+7,Soybeans,V7,Silica,Low,35
+8,Soybeans,V8,Silica,Low,35
+9,Soybeans,V9,Silica,Low,35
+10,Soybeans,R1,Silica,Low,50
+11,Soybeans,R2,Silica,Low,50
+12,Soybeans,R3,Silica,Low,50
+1,Corn,V2,Zinc,High,11
+2,Corn,V3,Zinc,High,11
+3,Corn,V4,Zinc,High,11
+4,Corn,V5,Zinc,High,11
+5,Corn,V6,Zinc,High,11
+6,Corn,V7,Zinc,High,10
+7,Corn,V8,Zinc,High,10
+8,Corn,V9,Zinc,High,10
+9,Corn,V10,Zinc,High,10
+10,Corn,V11,Zinc,High,10
+11,Corn,V12,Zinc,High,10
+12,Corn,V13,Zinc,High,10
+13,Corn,V14,Zinc,High,10
+14,Corn,V15,Zinc,High,10
+15,Corn,VT,Zinc,High,11
+16,Corn,R1,Zinc,High,11
+17,Corn,R2,Zinc,High,11
+18,Corn,R3,Zinc,High,11
+19,Corn,R4,Zinc,High,11
+1,Soybeans,V1,Zinc,High,7
+2,Soybeans,V2,Zinc,High,7
+3,Soybeans,V3,Zinc,High,7
+4,Soybeans,V4,Zinc,High,7
+5,Soybeans,V5,Zinc,High,7
+6,Soybeans,V6,Zinc,High,7
+7,Soybeans,V7,Zinc,High,7
+8,Soybeans,V8,Zinc,High,7
+9,Soybeans,V9,Zinc,High,7
+10,Soybeans,R1,Zinc,High,10
+11,Soybeans,R2,Zinc,High,10
+12,Soybeans,R3,Zinc,High,10
+1,Corn,V2,Zinc,Low,3
+2,Corn,V3,Zinc,Low,3
+3,Corn,V4,Zinc,Low,3
+4,Corn,V5,Zinc,Low,3
+5,Corn,V6,Zinc,Low,3
+6,Corn,V7,Zinc,Low,2
+7,Corn,V8,Zinc,Low,2
+8,Corn,V9,Zinc,Low,2
+9,Corn,V10,Zinc,Low,2
+10,Corn,V11,Zinc,Low,2
+11,Corn,V12,Zinc,Low,2
+12,Corn,V13,Zinc,Low,2
+13,Corn,V14,Zinc,Low,2
+14,Corn,V15,Zinc,Low,2
+15,Corn,VT,Zinc,Low,3
+16,Corn,R1,Zinc,Low,3
+17,Corn,R2,Zinc,Low,3
+18,Corn,R3,Zinc,Low,3
+19,Corn,R4,Zinc,Low,3
+1,Soybeans,V1,Zinc,Low,3.5
+2,Soybeans,V2,Zinc,Low,3.5
+3,Soybeans,V3,Zinc,Low,3.5
+4,Soybeans,V4,Zinc,Low,3.5
+5,Soybeans,V5,Zinc,Low,3.5
+6,Soybeans,V6,Zinc,Low,3.5
+7,Soybeans,V7,Zinc,Low,3.5
+8,Soybeans,V8,Zinc,Low,3.5
+9,Soybeans,V9,Zinc,Low,3.5
+10,Soybeans,R1,Zinc,Low,5
+11,Soybeans,R2,Zinc,Low,5
+12,Soybeans,R3,Zinc,Low,5
+1,Corn,V2,Total N,High,4000
+2,Corn,V3,Total N,High,4000
+3,Corn,V4,Total N,High,1855
+4,Corn,V5,Total N,High,1855
+5,Corn,V6,Total N,High,1855
+6,Corn,V7,Total N,High,1910
+7,Corn,V8,Total N,High,1910
+8,Corn,V9,Total N,High,1910
+9,Corn,V10,Total N,High,1730
+10,Corn,V11,Total N,High,1730
+11,Corn,V12,Total N,High,1730
+12,Corn,V13,Total N,High,1730
+13,Corn,V14,Total N,High,1730
+14,Corn,V15,Total N,High,1730
+15,Corn,VT,Total N,High,2000
+16,Corn,R1,Total N,High,2000
+17,Corn,R2,Total N,High,2238
+18,Corn,R3,Total N,High,2238
+19,Corn,R4,Total N,High,2238
+1,Soybeans,V1,Total N,High,2500
+2,Soybeans,V2,Total N,High,2500
+3,Soybeans,V3,Total N,High,2500
+4,Soybeans,V4,Total N,High,2500
+5,Soybeans,V5,Total N,High,2500
+6,Soybeans,V6,Total N,High,2500
+7,Soybeans,V7,Total N,High,2500
+8,Soybeans,V8,Total N,High,2500
+9,Soybeans,V9,Total N,High,2500
+10,Soybeans,R1,Total N,High,2800
+11,Soybeans,R2,Total N,High,2800
+12,Soybeans,R3,Total N,High,2800
+1,Corn,V2,Total N,Low,2000
+2,Corn,V3,Total N,Low,2000
+3,Corn,V4,Total N,Low,1110
+4,Corn,V5,Total N,Low,1110
+5,Corn,V6,Total N,Low,1110
+6,Corn,V7,Total N,Low,1100
+7,Corn,V8,Total N,Low,1100
+8,Corn,V9,Total N,Low,1100
+9,Corn,V10,Total N,Low,966
+10,Corn,V11,Total N,Low,966
+11,Corn,V12,Total N,Low,966
+12,Corn,V13,Total N,Low,966
+13,Corn,V14,Total N,Low,966
+14,Corn,V15,Total N,Low,966
+15,Corn,VT,Total N,Low,1160
+16,Corn,R1,Total N,Low,1160
+17,Corn,R2,Total N,Low,1110
+18,Corn,R3,Total N,Low,1110
+19,Corn,R4,Total N,Low,1110
+1,Soybeans,V1,Total N,Low,1250
+2,Soybeans,V2,Total N,Low,1250
+3,Soybeans,V3,Total N,Low,1250
+4,Soybeans,V4,Total N,Low,1250
+5,Soybeans,V5,Total N,Low,1250
+6,Soybeans,V6,Total N,Low,1250
+7,Soybeans,V7,Total N,Low,1250
+8,Soybeans,V8,Total N,Low,1250
+9,Soybeans,V9,Total N,Low,1250
+10,Soybeans,R1,Total N,Low,1200
+11,Soybeans,R2,Total N,Low,1200
+12,Soybeans,R3,Total N,Low,1200
