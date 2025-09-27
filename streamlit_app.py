@@ -31,6 +31,10 @@ with st.expander("Upload new data files (optional)", expanded=False):
     data_file_upload = st.file_uploader("Upload sample results file", type=["csv", "xlsx"])
 
     if baseline_file_upload:
+        # Clear existing files in the folder
+        for f in os.listdir(BASELINE_FOLDER):
+            os.remove(os.path.join(BASELINE_FOLDER, f))
+
         baseline_path = os.path.join(BASELINE_FOLDER, baseline_file_upload.name)
         with open(baseline_path, "wb") as f:
             f.write(baseline_file_upload.getbuffer())
@@ -38,6 +42,10 @@ with st.expander("Upload new data files (optional)", expanded=False):
         st.success(f"Saved Optimum Levels file: {baseline_file_upload.name}")
 
     if data_file_upload:
+        # Clear existing files in the folder
+        for f in os.listdir(SAMPLE_FOLDER):
+            os.remove(os.path.join(SAMPLE_FOLDER, f))
+
         data_path = os.path.join(SAMPLE_FOLDER, data_file_upload.name)
         with open(data_path, "wb") as f:
             f.write(data_file_upload.getbuffer())
