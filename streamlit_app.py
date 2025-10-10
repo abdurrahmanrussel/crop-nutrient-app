@@ -11,10 +11,11 @@ import time
 st.set_page_config(layout="wide")
 
 # ---------------------------
-# Folders for persistent storage
+# Persistent folders for storage
 # ---------------------------
-BASELINE_FOLDER = "data/baseline"
-SAMPLE_FOLDER = "data/sample"
+BASE_DIR = "/home/appuser/data"
+BASELINE_FOLDER = os.path.join(BASE_DIR, "baseline")
+SAMPLE_FOLDER = os.path.join(BASE_DIR, "sample")
 os.makedirs(BASELINE_FOLDER, exist_ok=True)
 os.makedirs(SAMPLE_FOLDER, exist_ok=True)
 
@@ -92,13 +93,13 @@ if baseline_file and data_file:
     if baseline_file.lower().endswith(".csv"):
         baseline_df = pd.read_csv(baseline_file)
     else:
-        baseline_df = pd.read_excel(baseline_file)
+        baseline_df = pd.read_excel(baseline_file, engine="openpyxl")  # fixed
 
     # --- Load sample data ---
     if data_file.lower().endswith(".csv"):
         data_df = pd.read_csv(data_file)
     else:
-        data_df = pd.read_excel(data_file)
+        data_df = pd.read_excel(data_file, engine="openpyxl")  # fixed
 
     # ---------------------------
     # Normalize baseline columns
